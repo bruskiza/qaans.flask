@@ -1,3 +1,4 @@
 ve/*
 app/__pycache__/*
 *.pyc
+app.db
